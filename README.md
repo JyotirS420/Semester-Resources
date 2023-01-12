@@ -10,8 +10,8 @@ Semester Wise Resources for B.Tech CSE at IIITD
 2. Linear Algebra Done Right Solutions
 3. Linear Algebra and Its Applications
 4. Linear Algebra and Its Applications Solutions
-5. [3Blue1Brown] (https://www.3blue1brown.com/topics/linear-algebra)
-6. [MIT_OCW] (https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+5. [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
+6. [MIT_OCW](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
 #### Note: Practice 1. for proofs and 2. for calculation questions.
 
