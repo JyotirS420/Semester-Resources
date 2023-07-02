@@ -11,7 +11,8 @@ Semester Wise Resources for B.Tech CSE at IIITD
 ## Semester 1 (January 2022 - April 2022)
 
 ### Linear Algebra
-
+  
+  
 1. [Linear Algebra Done Right](http://ndl.ethernet.edu.et/bitstream/123456789/88600/1/2015_Book_LinearAlgebraDoneRight.pdf) by Sheldon Axler
 2. Linear Algebra Done Right Solutions
 3. [Linear Algebra and Its Applications](https://home.cs.colorado.edu/~alko5368/lecturesCSCI2820/mathbook.pdf) by David C. Lay
@@ -20,8 +21,8 @@ Semester Wise Resources for B.Tech CSE at IIITD
 6. [MIT_OCW](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
 #### Note: Practice 1. for proofs and 2. for calculation questions.
-
-
+  
+  
 ### Digital Circuits
 
 1. [Digital Design](https://docs.google.com/file/d/0B8-drkZsESDnN2NmYTQxYjQtYTMwZi00N2IzLTkxNjgtZjI1NTZiN2FjNDli/edit?resourcekey=0-Yk8bAsCt9I5epBNFTG8KMQ) by Mano and Ciletti
@@ -29,16 +30,15 @@ Semester Wise Resources for B.Tech CSE at IIITD
 3. [Fundamentals of Digital Logic with VHDL Design](https://theswissbay.ch/pdf/Books/Computer%20science/Fundamentals%20of%20digital%20logic%20with%20VHDL%20design%20%283rd%20edition%29%20-%20Stephen%20Brown%2C%20Zvonko%20Vranesic.pdf) by Stephen Brown and Zvonko Vranesic
 4. [Neso Academy](https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&ab_channel=NesoAcademy)
 5. Lectures and Lecture Slides
-
-
-
+  
+  
 ### Introduction to Programming
 
 1. Slides provided in class
 2. 
 
 #### Note: I had Python in 11th/12th so the slides were sufficient for me.
-
+  
 
 ### Introduction to Human Computer Interaction
 
