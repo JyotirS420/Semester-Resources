@@ -18,7 +18,7 @@ Semester Wise Resources for B.Tech CSE at IIITD
 3. [Linear Algebra and Its Applications](https://home.cs.colorado.edu/~alko5368/lecturesCSCI2820/mathbook.pdf) by David C. Lay
 4. [Linear Algebra and Its Applications Solutions](https://www.aerostudents.com/courses/linear-algebra/linearAlgebraSolutionsComplete.pdf) (**check version**)
 5. [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
-6. [MIT_OCW](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+6. [MIT OCW](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) by Gilbert Strang
 
 #### Note: Practice 1. for proofs and 2. for calculation questions.
   
@@ -29,13 +29,12 @@ Semester Wise Resources for B.Tech CSE at IIITD
 2. [Solutions to some exercises](http://jrasti.ir/Courses/LogicCircuits/Digital%20Design%20-%20Solution%20Manual%20-%20Mano.pdf)
 3. [Fundamentals of Digital Logic with VHDL Design](https://theswissbay.ch/pdf/Books/Computer%20science/Fundamentals%20of%20digital%20logic%20with%20VHDL%20design%20%283rd%20edition%29%20-%20Stephen%20Brown%2C%20Zvonko%20Vranesic.pdf) by Stephen Brown and Zvonko Vranesic
 4. [Neso Academy](https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&ab_channel=NesoAcademy)
-5. Lectures and Lecture Slides
+5. Lectures/Lecture Slides
   
   
 ### Introduction to Programming
 
 1. Slides provided in class
-2. 
 
 #### Note: I had Python in 11th/12th so the slides were sufficient for me.
   
@@ -45,7 +44,6 @@ Semester Wise Resources for B.Tech CSE at IIITD
 1. [Interaction Design beyond human-computer interaction](https://opac.atmaluhur.ac.id/uploaded_files/temporary/DigitalCollection/NjY3Yzg5NDU2YmFlYjZlMDk5MGYyNmQ4ZjJiOGM4NzU0MjUxM2ZiOQ==.pdf) by Sharp, Rogers and Reece
 2. Slides provided in class
 3. Other resources provided in class
-4. 
 
 ### Communication Skills
 
@@ -59,40 +57,34 @@ Semester Wise Resources for B.Tech CSE at IIITD
 
 1. [Abdul Bari](https://www.youtube.com/@abdul_bari)
 2. [CLRS](https://dahlan.unimal.ac.id/files/ebooks/2009%20Introduction%20to%20Algorithms%20Third%20Ed.pdf)
-3. Lectures/Slides
+3. Lectures/Lecture Slides
 4. Practice Qs for Labs (I did [LeetCode](https://leetcode.com/))
-5. 
-6. 
+5. [Let us C](https://www.ankitweblogic.com/librar/download.php?a=45&b=ebooks/img/let-us-c-14.pdf&c=Let%20Us%20C%20[PDF]%3Cbr%3EBy%3Cbr%3EYashwant%20Kanetkar%3Cbr%3E14th%20Edition) by Yashavant Kanetkar
+6. [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
 
 
 
 ### Probability and Statistics
 
-1. [Probability and Stochastic Processes 3th Edition]() by Roy D. Yates, David J. Goodman
-2. 
-3. 
-4. 
-5. 
-6. 
+1. [Probability and Stochastic Processes](http://s3.amazonaws.com/arena-attachments/1045196/086c13e7182df500bb1b7888c1ee6256.pdf?1496165726) by Roy D. Yates, David J. Goodman
+2. [Solutions]()
+3. Lectures/Lecture Slides
 
 
 ### Computer Organisation
 
-1. Lectures/Notes provided
+1. [Basic Computer Architecture](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html) by Professor Smruti R. Sarangi
 2. [Lectures](https://www.youtube.com/watch?v=F70plLQE6sU&list=PLL7q95_bHxC56PtT1t-21A-NmUf7yBjGs&pp=iAQB)  by Professor Sujay Deb
-3. Tutorials
-4. 
-5. 
-6. 
+3. Lectures/Lecture Slides
+4. Tutorials
 
 
 ### Basic Electronics
 
-1. [Engineering Circuit Analysis]() by William H.Hayt Jr., Jack E. Kemmerly, Steven M. Durbin
-2. Diodes
+1. [Engineering Circuit Analysis](https://labttpl.files.wordpress.com/2012/05/engineering-circuit-analysis-8-ed.pdf) by William H.Hayt Jr., Jack E. Kemmerly, Steven M. Durbin
+2. [Solutions]()
 3. Tutorials
-4. 
-5. 
+4. Diodes/Op Amps
 
 
 ### Money and Banking
@@ -108,9 +100,9 @@ Semester Wise Resources for B.Tech CSE at IIITD
 ### Advanced Programming (in Java)
 
 1. Slides provided in class
-2. [Telusko](https://www.youtube.com/@Telusko)
-3. [Alex Lee](https://www.youtube.com/@alexlorenlee)
-4. [Bro Code](https://www.youtube.com/@BroCodez)
+2. [Telusko](https://www.youtube.com/@Telusko) (for Java)
+3. [Alex Lee](https://www.youtube.com/@alexlorenlee) (for Java)
+4. [Bro Code](https://www.youtube.com/@BroCodez) (for Java)
 5. [LibGDX Wordpress](https://libgdxinfo.wordpress.com/2019/03/25/555/)
 6. [LibGDX Wiki](https://libgdx.com/wiki/)
 7. [Hollow Bit](https://www.youtube.com/@HollowBit/featured) (for LibGDX)
@@ -121,25 +113,28 @@ Semester Wise Resources for B.Tech CSE at IIITD
 
 ### Operating Systems
 
-1. [Operating System: Three Easy Pieces]()
-2. 
-3. 
-4. 
-5. 
-6. Lecture Notes
+1. [Operating System: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau &
+Andrea C. Arpaci-Dusseau
+2. [Introduction to 64 Bit Intel Assembly Language Programming for Linux](http://library.bagrintsev.me/ASM/Introduction%20to%2064bit%20Intel%20Assembly%20Language%20Programming%20for%20Linux.2011.pdf) by Ray Seyfarth
+3. [Linux Kernel Development](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Linux/Linux%20Kernel%20Development,%203rd%20Edition.pdf) by Robert Love
+4. [Linux Kernel System Programming](https://doc.lagout.org/programmation/unix/Linux%20System%20Programming%20Talking%20Directly%20to%20the%20Kernel%20and%20C%20Library.pdf) by Robert Love
+5. [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) by Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram and Jim Huang
+6. [The Linux Programming Interface](https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf) by Michael Kerrisk
+7. [x64 cheatsheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
+8. Lectures/Lecture notes
 
 
 ### Multivariable Calculus
 
 1. [Thomas' Calculus](http://dl.konkur.in/post/Book/Paye/Thomas-Calculus-14th-Edition-%5Bkonkur.in%5D.pdf)
-2. [MIT OCW by Denis Auroux](https://www.youtube.com/watch?v=PxCxlsl_YwY&ab_channel=MITOpenCourseWare)
-3. Lecture Notes
+2. [MIT OCW](https://www.youtube.com/watch?v=PxCxlsl_YwY&ab_channel=MITOpenCourseWare) by Denis Auroux
+3. Lectures/Lectures Notes
 
 
 ### Discrete Mathematics
 
 1. [Discrete Mathematics](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf) by Kenneth H. Rossen
-2. [MIT OCW by Tom Leighton](https://www.youtube.com/watch?v=L3LMbpZIKhQ&ab_channel=MITOpenCourseWare)
+2. [MIT OCW](https://www.youtube.com/watch?v=L3LMbpZIKhQ&ab_channel=MITOpenCourseWare) by Tom Leighton
 3. Slides (almost same as textbook)
 
 
@@ -164,12 +159,11 @@ Semester Wise Resources for B.Tech CSE at IIITD
 
 ### Fundamentals of Database Management Systems
 
-1. [DBMS by Parth Pratim Das](https://www.youtube.com/watch?v=IoL9Ve2SRwQ&list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh&ab_channel=DataBaseManagementSystem-IITKGP)
-2. [DBMS by Professor S. Sudarshan](https://www.youtube.com/watch?v=MtOFF91igB0&list=PL_uaeekrhGzJmfQhBXj5H3pUPhBSOG_fe&index=2)
+1. [DBMS](https://www.youtube.com/watch?v=IoL9Ve2SRwQ&list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh&ab_channel=DataBaseManagementSystem-IITKGP) by Professor Parth Pratim Das
+2. [DBMS](https://www.youtube.com/watch?v=MtOFF91igB0&list=PL_uaeekrhGzJmfQhBXj5H3pUPhBSOG_fe&index=2) by Professor S. Sudarshan
 3. [Gatesmashers](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&ab_channel=GateSmashers)
 4. Lecture slides
-5. 
-6. 
+5. test
 
 
 ### Differential Equations
@@ -182,7 +176,7 @@ Semester Wise Resources for B.Tech CSE at IIITD
 
 1. Google everything in slides
 2. [Amoeba Sisters](https://www.youtube.com/@AmoebaSisters)
-3. [Shomu's Biology]()
+3. [Shomu's Biology](youtube.com/channel/UCEPMCywJ6FPZpQ_aPEZt5JA)
 4. 
 5. 
 6. 
@@ -191,10 +185,9 @@ Semester Wise Resources for B.Tech CSE at IIITD
 
 1. [Introductory Econometrics](https://cbpbu.ac.in/userfiles/file/2020/STUDY_MAT/ECO/2.pdf) by Jeffrey M. Wooldridge
 2. [Solutions](https://www.studocu.com/row/document/universite-du-luxembourg/discourse-analysis/solution-manual-introductory-econometrics-a-modern-approach-4edition-solution-manual/7405449)
-3. Lecture notes
-4. 
-5. 
-6. 
+3. Lecture/Lecture Notes
+4. [Ben Lambert](https://www.youtube.com/@SpartacanUsuals)
+5. [Econometrics Academy](https://www.youtube.com/@econometricsacademy)
 
 
 
