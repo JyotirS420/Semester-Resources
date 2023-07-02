@@ -127,14 +127,14 @@ Andrea C. Arpaci-Dusseau
 ### Multivariable Calculus
 
 1. [Thomas' Calculus](http://dl.konkur.in/post/Book/Paye/Thomas-Calculus-14th-Edition-%5Bkonkur.in%5D.pdf)
-2. [MIT OCW](https://www.youtube.com/watch?v=PxCxlsl_YwY&ab_channel=MITOpenCourseWare) by Denis Auroux
+2. [MIT OCW](https://youtube.com/playlist?list=PL4C4C8A7D06566F38) by Denis Auroux
 3. Lectures/Lectures Notes
 
 
 ### Discrete Mathematics
 
 1. [Discrete Mathematics](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf) by Kenneth H. Rossen
-2. [MIT OCW](https://www.youtube.com/watch?v=L3LMbpZIKhQ&ab_channel=MITOpenCourseWare) by Tom Leighton
+2. [MIT OCW](https://youtube.com/playlist?list=PLB7540DEDD482705B) by Tom Leighton
 3. Slides (almost same as textbook)
 
 
