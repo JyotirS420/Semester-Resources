@@ -2,7 +2,7 @@
 Semester Wise Resources for B.Tech CSE at IIITD
 
 ### General Notes: 
-1. These are only the resources I referred to. There are a lot more resources available out there that may work just as well in most cases.
+1. These are only the resources I referred to. There are a lot more resources available out there that may work just as well.
 2. Check for the edition of the book being referred.
 3. Sometimes random videos can help in understanding specific concepts, I've included some of them below but not all.
 
