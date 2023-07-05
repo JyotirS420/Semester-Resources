@@ -177,7 +177,7 @@ Andrea C. Arpaci-Dusseau
 1. Google everything in slides
 2. [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 3. [Amoeba Sisters](https://www.youtube.com/@AmoebaSisters)
-4. [Shomu's Biology](youtube.com/channel/UCEPMCywJ6FPZpQ_aPEZt5JA)
+4. [Shomu's Biology](https://www.youtube.com/channel/UCEPMCywJ6FPZpQ_aPEZt5JA)
 5. [Brandon Foltz](https://www.youtube.com/@BrandonFoltz)
 6. [Farhan Haq](https://www.youtube.com/@FarhanHaqj)
 7. [Bioinformagician](https://www.youtube.com/@Bioinformagician)
