@@ -163,7 +163,7 @@ Andrea C. Arpaci-Dusseau
 2. [DBMS](https://www.youtube.com/watch?v=MtOFF91igB0&list=PL_uaeekrhGzJmfQhBXj5H3pUPhBSOG_fe&index=2) by Professor S. Sudarshan
 3. [Gatesmashers](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&ab_channel=GateSmashers)
 4. Lecture slides
-5. test
+5. test site
 
 
 ### Differential Equations
@@ -175,11 +175,12 @@ Andrea C. Arpaci-Dusseau
 ### Practical Bioinformatics
 
 1. Google everything in slides
-2. [Amoeba Sisters](https://www.youtube.com/@AmoebaSisters)
-3. [Shomu's Biology](youtube.com/channel/UCEPMCywJ6FPZpQ_aPEZt5JA)
-4. 
-5. 
-6. 
+2. [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+3. [Amoeba Sisters](https://www.youtube.com/@AmoebaSisters)
+4. [Shomu's Biology](youtube.com/channel/UCEPMCywJ6FPZpQ_aPEZt5JA)
+5. [Brandon Foltz](https://www.youtube.com/@BrandonFoltz)
+6. [Farhan Haq](https://www.youtube.com/@FarhanHaqj)
+7. [Bioinformagician](https://www.youtube.com/@Bioinformagician)
 
 ### Econometrics - I
 
