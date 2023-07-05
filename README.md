@@ -87,7 +87,7 @@ Semester Wise Resources for B.Tech CSE at IIITD
 4. Diodes/Op Amps
 
 
-### Money and Banking [(ECO233)](http://techtree.iiitd.edu.in/viewDescription/filename?=ECO233)
+### Money and Banking [(ECO233)](http://techtree.iiitd.edu.in/viewDescription/filename?=ECO223)
 
 1. [The Economics of Money, Banking, and Financial Markets](https://handoutset.com/wp-content/uploads/2022/06/The-Economics-of-Money-Banking-and-Financial-Markets-13th-Global-Edition-Frederic-Mishkin.pdf) by Frederic S. Mishkin
 2. [Question Bank](http://www.mim.ac.mw/books/Mishkin's%20Economics%20of%20Money,%20Banking%20and%20Financial%20MarketsTestBank.pdf)
