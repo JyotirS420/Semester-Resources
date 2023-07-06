@@ -20,7 +20,7 @@ Semester Wise Resources for B.Tech CSE at IIIT-D.
 5. [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
 6. [MIT OCW](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) by Gilbert Strang
 
-#### Note: Practice 1. for proofs and 2. for calculation questions.
+#### Note: Practice 1. for proof based questions and 2. for numerical based questions.
   
   
 ### Digital Circuits [(ECE111)](http://techtree.iiitd.edu.in/viewDescription/filename?=ECE111)
