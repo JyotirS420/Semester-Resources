@@ -67,7 +67,7 @@ Semester Wise Resources for B.Tech CSE at IIIT-D.
 ### Probability and Statistics [(MTH201)](http://techtree.iiitd.edu.in/viewDescription/filename?=MTH201)
 
 1. [Probability and Stochastic Processes](http://s3.amazonaws.com/arena-attachments/1045196/086c13e7182df500bb1b7888c1ee6256.pdf?1496165726) by Roy D. Yates, David J. Goodman
-2. [Solutions]()
+2. [Solutions](https://www.docsity.com/en/david-goodman-probability-and-stochastic/2270205/)
 3. Lectures/Lecture Slides
 
 
