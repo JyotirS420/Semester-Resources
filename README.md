@@ -82,7 +82,7 @@ Semester Wise Resources for B.Tech CSE at IIIT-D.
 ### Basic Electronics [(ECE113)](http://techtree.iiitd.edu.in/viewDescription/filename?=ECE113)
 
 1. [Engineering Circuit Analysis](https://labttpl.files.wordpress.com/2012/05/engineering-circuit-analysis-8-ed.pdf) by William H.Hayt Jr., Jack E. Kemmerly, Steven M. Durbin
-2. [Solutions]()
+2. Solutions
 3. Tutorials
 
 
