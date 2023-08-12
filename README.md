@@ -190,5 +190,19 @@ Andrea C. Arpaci-Dusseau
 5. [Econometrics Academy](https://www.youtube.com/@econometricsacademy)
 
 
+## Semester 5 (August 2023 - December 2023)  
+
+### Computer Networks [(CSE232)](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE232)
+
+### Machine Learning [(CSE343)](http://techtree.iiitd.edu.in/viewDescription/filename?=ECE363)
+
+### Game Theory [(ECO311)](http://techtree.iiitd.edu.in/viewDescription/filename?=ECO311)
+
+### Technical Communication [(COM301A)](http://techtree.iiitd.edu.in/viewDescription/filename?=COM301A)
+
+### Environmental Sciences [(ESC205)](http://techtree.iiitd.edu.in/viewDescription/filename?=ESC205)
+
+
+
 
 
